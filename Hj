@@ -5,6 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ferhh66565hhuh/azuko.git
 git push -u origin main
-warp://rg.amirhosseingoodarzi.ir:23435?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#f&&detour=warp://rg.amirhosseingoodarzi.ir:23435?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#f2
-warp://rg.sseinshow.ir:25567?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h&&detour=warp://rg.sseinshow.ir:25576?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h2
-warp://rg.amirhossein77.ir:26678?ifp=50-60&ifps=60-70&ifpd=70-80&ifpm=m4#g&&detour=warp://rg.amirhossein77.ir:26678?ifp=50-60&ifps=60-70&ifpd=70-80&ifpm=m4#g2
+warp://p1@rg.amirhosseingoodarzi.ir:23435/?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#f&&detour=warp://p2@rg.amirhosseingoodarzi.ir:23435/?ifp=40-50&ifps=50-60&ifpd=60-70&ifpm=m4#f2
+warp://p1@rg.sseinshow.ir:25567/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h&&detour=warp://p2@rg.sseinshow.ir:25576/?ifp=20-30&ifps=30-40&ifpd=40-50&ifpm=m4#h2
+warp://p1@rg.amirhossein77.ir:26678/?ifp=50-60&ifps=60-70&ifpd=70-80&ifpm=m4#g&&detour=warp://p2#rg.amirhossein77.ir:26678/?ifp=50-60&ifps=60-70&ifpd=70-80&ifpm=m4#g2
